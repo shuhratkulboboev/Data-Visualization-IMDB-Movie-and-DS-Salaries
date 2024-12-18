@@ -46,12 +46,12 @@ Each dataset is visualized separately to highlight key trends and insights.
 ### 1. IMDB Movies Dataset
 - Example visualization: Rating trends by movie genre over time.
   
-![IMDB Movies Visualization](images/imdb_visualization.png)
+
 
 ### 2. Data Science Salaries Dataset
 - Example visualization: Salary distribution by job title and experience level.
   
-![Data Science Salaries Visualization](images/ds_salaries_visualization.png)
+
 
 ---
 
